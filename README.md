@@ -269,3 +269,6 @@ For support and questions:
 ---
 
 **TaskSphere** - Empowering teams to achieve more, together.
+=======
+# TaskSphere
+TaskSphere – Full-stack task management system using Spring Boot, Node, React, Docker
